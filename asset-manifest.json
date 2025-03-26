@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_in_ollama/static/css/main.d7f616a8.css",
-    "main.js": "/react_in_ollama/static/js/main.732a43c1.js",
+    "main.js": "/react_in_ollama/static/js/main.41268629.js",
     "static/js/453.63eb513d.chunk.js": "/react_in_ollama/static/js/453.63eb513d.chunk.js",
     "index.html": "/react_in_ollama/index.html",
     "main.d7f616a8.css.map": "/react_in_ollama/static/css/main.d7f616a8.css.map",
-    "main.732a43c1.js.map": "/react_in_ollama/static/js/main.732a43c1.js.map",
+    "main.41268629.js.map": "/react_in_ollama/static/js/main.41268629.js.map",
     "453.63eb513d.chunk.js.map": "/react_in_ollama/static/js/453.63eb513d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7f616a8.css",
-    "static/js/main.732a43c1.js"
+    "static/js/main.41268629.js"
   ]
 }
