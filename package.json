@@ -1,6 +1,7 @@
 {
   "name": "react-ai-chatbot",
   "version": "0.1.0",
+  "proxy": "http://offetuoso.duckdns.org:11434",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

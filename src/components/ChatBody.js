@@ -63,7 +63,7 @@ function ChatBody() {
 
     setMessages(messages);
 
-    axios.post(`${process.env.REACT_APP_AI_URL}:${process.env.REACT_APP_AI_PORT}/api/chat`, {
+    axios.post('/api/chat', {
       "model" : "llama3.1",
       "stream" : false,
       "messages": messages
